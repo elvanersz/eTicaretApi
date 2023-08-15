@@ -1,1 +1,9 @@
 PROJEDE KULLANILAN KÜTÜPHANELER, FRAMEWORKLER, DİLLER VE TEKNOLOJİLER
+- Java 17
+- Spring MVC
+- Spring Data JPA
+- Kotlin 1.5.0
+- Restful API
+- Docker
+- JUnit 5
+- MYSQL
